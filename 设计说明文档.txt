@@ -1,0 +1,17 @@
+认证功能/登陆--SpringSecurity
+
+重写接口中的方法--UserDetailsService
+
+
+
+
+
+
+
+
+
+
+
+select count(*) from user where username=‘’and password=''
+count>0 说明数据库中是有我们想要登录的用户信息
+
